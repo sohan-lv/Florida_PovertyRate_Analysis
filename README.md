@@ -1,3 +1,5 @@
+> Made by Sohan L V | University of South Florida |
+
 # Florida Poverty Rate Analysis (2012–2023)
 
 ## Overview
@@ -19,4 +21,3 @@ This data is collected using Python and saved into an Excel file for further ana
 ## Libraries Required
 requests, pandas, openpyxl
 
-> Made by Sohan L V | University of South Florida |
